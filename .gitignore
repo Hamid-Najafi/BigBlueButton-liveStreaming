@@ -1,6 +1,6 @@
 .env
 .ds_store
-*.yml
+# *.yml
 *.code-workspace
 *.iml
 *.swp
